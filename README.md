@@ -1,6 +1,6 @@
 # Social-Network (Client-Server)<br>
-Server(c++): Manage and store data.<br>
-Client(java): User Inerface for interacting with the server. 
+Server(C++): Manage and store data.<br>
+Client(Java): User Inerface for interacting with the server. 
 
 
 
