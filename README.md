@@ -7,7 +7,8 @@ Client Side:
 	Open terminal in the client bin folder insert in terminal line - ./echoExample <IP> <PORT>.
 
 Server side(2 Implementations Reactor\TCP):
-	Reactor design:
+	
+Reactor design:
 	Open terminal in server/spl-net dir:
 	- write mvn exec:java -Dexec.mainClass="bgu.spl.net.impl.BGSServer.ReactorMain"
 	-Dexec.args="<port><Num of threads>" for Reactor server.
