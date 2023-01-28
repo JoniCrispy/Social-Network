@@ -3,8 +3,8 @@ Server: Manage and store data.
 Client: User Inerface for interacting with the server. 
 
 HowTo:
-Client Side:;
-	Open terminal in the client bin folder insert in terminal line - ./echoExample <IP> <PORT>;
+Client Side:
+	Open terminal in the client bin folder insert in terminal line - ./echoExample <IP> <PORT>.
 
 Server side(2 Implementations Reactor\TCP):
 	Reactor design:
