@@ -17,4 +17,4 @@ Server side(2 Implementations Reactor\TCP):
 
 Notice:
 Forbiden words can be change in ConnectionImpl.class in the BGSServer.
-Each command(message) should be written in capital latters and the birthday should be saparated by '.'
+Each command(message) should be written in capital latters and the birthday should be saparated by '.'.
